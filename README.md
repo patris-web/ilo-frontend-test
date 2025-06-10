@@ -1,5 +1,7 @@
 # ilo-frontend-test
 
+## Γράψτε ακριβώς τι υλοποιήσατε:
+
 -Εμφάνιση πρώτων 10 posts στο #posts div. 
 
 -Εμφάνιση τα post details και τα comments στο detailsDiv.
