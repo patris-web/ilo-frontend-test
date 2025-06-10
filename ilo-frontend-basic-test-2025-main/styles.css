@@ -1,0 +1,29 @@
+
+.post-item {
+  padding: 10px;
+  margin: 5px 0;
+  background: #f0f0f0;
+  cursor: pointer;
+}
+
+.post-item:hover {
+  background: #e0e0e0;
+}
+
+#details ul {
+  list-style: none;
+  padding: 0;
+}
+
+#details li {
+  padding: 8px;
+  margin: 5px 0;
+  background: #f9f9f9;
+}
+
+@media (max-width: 600px) {
+  #posts, #details {
+    width: 100%;
+  }
+}
+
